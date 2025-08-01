@@ -60,4 +60,5 @@ Although this model is not trained using real data and does not generalize beyon
 
 **OUTPUT:**
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/62602091-14a8-4a27-ba8c-6b2f782d23a3" />
 
