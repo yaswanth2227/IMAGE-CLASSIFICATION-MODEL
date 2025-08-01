@@ -57,3 +57,7 @@ if the score is greater than 0, the image is predicted as Class A. Otherwise, it
 This classification logic, while extremely simplified, mimics the decision boundary of a real classifier trained via gradient descent and backpropagation.
 
 Although this model is not trained using real data and does not generalize beyond the example input, it serves as a foundational exercise to explore the principles of CNNs.
+
+**OUTPUT:**
+
+
